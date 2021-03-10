@@ -1,0 +1,7 @@
+Total number of people in input = 12 Where there are 3 males and 9 females.
+There are 2 normal weight people and among them, there are 1 males and 1 females
+There are 3 over weight people and among them, there are 0 males and 3 females
+There are 0 under weight people and among them, there are 0 males and 0 females
+There are 5 obese people and among them, there are 2 males and 3 females
+Out of the 12 people, 25.0% of the people are overweight
+Among the 3 over weight poeple, 0.0% are male and 100.0% are female

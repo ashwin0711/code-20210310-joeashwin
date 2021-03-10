@@ -1,0 +1,7 @@
+Height,Weight,Expected BMI,Expected Category,Expected risk
+175,82,26.78,Overweight,Enhanced Risk
+162,62,23.62,Normal Weight,Low Risk
+164,52,19.33,Normal Weight,Low Risk
+172,48,16.22,Underweight,Malnutrition Risk
+168,96,34.01,Moderately Obese,Medium Risk
+152,102,44.15,Very Severely Obese,Very High Risk
